@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1074690990052",
+    "project_id": "saksham-8f9e0",
+    "storage_bucket": "saksham-8f9e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1074690990052:android:562adfd0c00438916571f1",
+        "android_client_info": {
+          "package_name": "com.example.saksham"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1074690990052-vncbjqsr5p04pnl3drh6el9vf0kd7lkv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnvs12P6h00urv71aMbZnA4KI95vmPi_Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1074690990052-rsr6s3mk0eot90h0gudlceqf4ioor3ng.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1074690990052-7a0qfu5uut1o2rhfgjfi5hktmk2flmbq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.saksham"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
